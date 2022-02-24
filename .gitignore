@@ -1,0 +1,12 @@
+*.pyc
+.idea
+tmp/*
+*.pem
+!tmp/.tmpdir
+run/*
+env/*
+venv/*
+venvback/*
+.DS_Store
+hide/*
+.ipynb_checkpoints/*

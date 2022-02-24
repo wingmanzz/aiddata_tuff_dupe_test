@@ -1,0 +1,301 @@
+Source: Pakistan Journal of Zoology
+Publisher: The Zoological Society of Pakistan
+Byline: Hui Wang, Lin Wang, Xuanlu Li, Shanshan Li, Yongqiang Zhao, Shicheng Lv, Xinrong Xu, Guang Yang and Bingyao Chen 
+Copyright: Copyright © 2019. Zoological Society of Pakistan 
+Publication Date: Dec 30, 2019
+
+Region Codes: ,china,pakis,jiangs,apacz,asiaz,bric,chinaz,devgcoz,dvpcoz,easiaz,indsubz,sasiaz,
+
+Title: Bird Density and the Evaluation of Importance of Buffer Zone of the Largest Coastal Nature Reserve, Yancheng Reserve, China
+
+Snippet: Key words: Bird density, Buffer zone, Importance evaluation, Line transect, Yancheng Reserve.
+
+INTRODUCTION
+
+Body: 
+The rapid population growth and economic development has greatly affected the ecosystems (Lu et al., 2007) and reduced the local biodiversity (Beardsley et al., 2009; MacGregor-Fors, 2011). Birds are relatively sensitive to environmental changes (Reis et al., 2012; Ren et al., 2016); hence bird diversity and density have become an important indicator to ecosystem and habitat changes (Lv et al., 2007; Larsen et al., 2011). National Yancheng Rare Birds Nature Reserve (Yancheng Reserve), established in 1983, is the largest coastal nature reserve in China. It was included in the Man and Biosphere Reserve Network of UNESCO in 1992. Yancheng Reserve supports a high biodiversity of 1665 faunal species, including 405 bird species such as the Endangered red-crowned crane (Grus japonensis) (Lv et al., 2007; Lv, 2015), and an annual number of migratory birds approximating 3,000,000 (Lv et al., 2007).
+
+However, the reserve is under serious pressure from rapid and widespread habitat deterioration, which affected 42% of the core zone and approximately twice that percentage in the buffer zone (83%); by 2003, very little natural wetland was left in the reserve (Ma et al., 2009). This catastrophe threatened the zone's inhabitants, changed the birds' patterns of habitat use, and increasingly concentrated them in the core zone (Su et al., 2008; Ma et al., 2009). As the carrying capacity of the core zone reached its limit, birds have been spreading outward to the buffer zone for the past several years. Although buffer zone is legally treated at par with the core zone (however, buffer zone is often considered secondary to the core zone, which has the highest priority, in terms of species conservation), it is seldom evaluated for bird diversity. Therefore, the birds' population dynamics in the buffer zone remain unclear.
+
+Bird density is fundamental to understanding the population dynamics and is commonly used as reference for setting conservation priorities (Newson et al., 2008) and evaluating the importance of functional zones (Tatsuya et al., 2010). Until now, most previous studies on Yancheng birds have concentrated on their distribution pattern and habitat selection (Jiang et al., 2010; Liu et al., 2010, 2013; Wang et al., 2015). The scanty bird density studies have focused on limited species, such as the red-crowned crane and Saunders's gull (Larus saundersi), and birds in the core zone (Lv et al., 2006; Ma et al., 2009; Jiang et al., 2010) and transition zone (Hou et al., 2013). Meanwhile, bird density in the buffer zone was seldom estimated, hence the importance of the buffer zone could not be well evaluated.
+
+MATERIALS AND METHODS
+
+We conducted a line transect survey to estimate bird density in the buffer zone of Yancheng Reserve. By comparing the density difference between approximate natural (woodland) and complete artificial habitats (farmlands and aquaculture ponds), we assessed the impact of anthropogenic activities on bird population dynamics. Based on the density of protected species, migratory species, and resident birds, we explored the importance of the buffer zone for bird conservation.
+
+Study sites
+
+The study sites and field work have been described by Li et al. (2016). Yancheng Reserve is located in the coastal area of Jiangsu Province, East China, 32°34'N to 34°28'N and 119°48'E to 120°56'E, with a 582-km long coastline and 4530 km2 area. The northern buffer zone study area covers 224.9 km2 and comprises three major habitats consisting of woodland, farmland, and aquaculture ponds. The woodland includes natural macrophanerophytes and some planted trees mainly Populus alba.
+
+Field work
+
+Data were collected with approval from Animal Research Ethics Committee of Nanjing Normal University.
+
+In the buffer zone of Yuncheng Reserve, almost straight survey lines were established (Fig. 1). The visibility in woodland could be only about 50 m, in aquaculture area about 150 m and in farmlands even more than 150 m during winter (the time of the study). The visibility in the woodland could however be more than 50 m during winter when the scanty deciduous vegetation is leafless.
+
+Field survey was conducted from 15th-30th December 2010, upon the arrival of migratory birds. We designed sixteen transect lines ranging from 2.0 km to 12.0 km long spaced at one km interval (Fig. 1) covering all habitat types except for the mudflats due to safety considerations. We traversed a total length of 188.8 km of transect lines however the data obtained from 117.4 km line-transect surveys were used in estimating bird density after intercepting repeated lines.
+
+Three trained observers walked the transect lines from 0730 / 0830 hours to 1300 / 1600 hours at 2-3 km per h depending on the length of the survey line selected. When birds were sighted, the time, sighting angle between transect line and the initial location of the bird, distance (measured directly with an infrared range finder or by GPS), species of the bird, their numbers, and habitat types, were recorded. The birds were photographed as much as possible using a digital camera with a 100-400 mm zoom lens and 1.4 x Tele-converter for further identification. For the identification of bird species, “A field guide to the birds of China” (MacKinnon, 2000) and “A checklist on the classification and distribution of birds of China” (Zheng, 2011) were used; the website of China Bird Gallery (http://old.wwfchina.org/birdgallery) was also consulted.
+
+Data analysis
+
+The bird density of protected birds, migratory birds, resident birds, species, orders, or different habitat types were respectively estimated.
+
+The density of birds was estimated using DISTANCE 6.0. We used the Conventional Distance Sampling (CDS) engine which employs the flexible semi-parametric detection function modeling framework proposed by Buckland (1992) and Thomas et al. (2010). In CDS engine, four key functions are available: uniform, half- normal, hazard-rate, and negative exponential; and adjustments can be expressed in cosine terms, hermite, or simple polynomials. However, the negative exponential key, which is present in Distance largely for historical reasons, was not recommended for use (Thomas et al., 2010). Therefore, three other models were selected as key functions together with their series expansion: Uniform + Cosine, Uniform + Simple polynomial, Uniform + Hermite polynomial; Half-normal + Cosine, Half-normal + Simple polynomial, Half-normal + Hermite polynomial; Hazard-rate + Cosine, Hazard-rate + Simple polynomial and Hazard-rate + Hermite polynomial.
+
+The model that best fits the data was selected for each sampling unit line (Burnham et al., 1980) based on the lowest value of the Akaike's Information Criterion (AIC), and not too many parameters (Buckland et al., 1993, 2001). In this program, the density of bird groups in the area surveyed was estimated using the following equation (Buckland et al., 1993):
+
+D = n x f(0)/2L
+
+Where, n is the number of birds identified, L is the length of survey line (m), f (0) is the probability density function of the perpendicular distances evaluated at zero whose value is the same with the reciprocal of effective strip width and D is the density of bird groups per square kilometer.
+
+Generally, the density estimates satisfied the following premises: (i) at least 40 objects were observed via line- transect sampling schemes (Anderson et al., 1979), (ii) birds recorded in the final distance band (100 m or more) were excluded from the analyses (Buckland et al., 2001; Newson et al., 2005) and (iii) birds flying toward the front were excluded to avoid re-counts.
+
+RESULTS
+
+Survey efforts
+
+In total, we observed 8067 birds; of these, 5534 individuals were identified and classified belonging to 50 species and 12 orders (Table I). Thirty four protected species, with 4975 individuals were observed in in the three habitats including 127 red-crowned cranes and 868 common cranes. On an average 63.7±41.9 individuals per km survey line were recorded.
+
+The richest bird order was Passeriformes, which represented about 34% of the total number of species. At species level, tree sparrow (Passer montanus) was the most abundant species, with 1504 (18.64%) individuals sighted.
+
+Density estimates of each order
+
+Of the 12 bird orders, Density estimates of Galliformes, Piciformes, Pelecaniformes, and Coraciiformes were not attempted because of their few sightings (< 40 individuals). Passeriformes had the highest density with 344.32 individuals/km2, followed by Lariformes, Anseriformes, Charadriiformes, Gruiformes, and Columbiformes, which ranged from 56.86 to 12.15 individuals/km2 (Table II). The density of other two orders was less than 10 individuals/ km2. The density of unidentified birds was 35.68 individuals/km2.
+
+Table I.- The area and survey efforts in three types of habitats in northern buffer zone of National Yancheng Rare Birds Nature Reserve. 
+
+Habitat         Area       Survey effort        Total number of
+type            (km2)   (length of transect      birds counted
+                              lines,km
+Aquaculture     115.3          51.45               4470
+Farmland        89.1           54.95               2935
+Woodland        20.5           11.00               333
+Total           224.9          117.40              7738
+
+
+Table II.- Density estimates of eight orders and unidentified birds, based on alternative Distance models selected on the lowest value of the Akaike's Information Criterion (AIC). 95% CI, 95% confidence interval for density; SE, standard error; CV, coefficient of variation. 
+
+Order                Model (Key function)        AIC             Density                95% CI         SE       CV (%)    Effective strip
+                                                            (individuals.km-2)                                               width (m)
+Passeriformes        Half-normal+Cosine         2389.9           344.32            243.14 - 487.58    59.11     17.17         17.4
+Lariformes           Uniform+Polynomial         282.9            56.86              21.58 - 149.84    28.79     50.62         95.8
+Anseriformes         Uniform+Cosine             266.4            38.31              13.05 - 112.45    21.82     56.95         98.8
+Charadriiformes      Uniform+Polynomial         209.9            30.43               8.07 - 114.82    20.03     65.81         95.8
+Gruiformes           Uniform+Hermite            128.5            13.39               4.01 - 44.69     8.20      61.28         98.4
+Columbiformes        Uniform+Cosine             158.8            12.15               6.49 - 22.73     3.74      30.75         44.3
+Ciconniformes        Uniform+Cosine             257.3            6.82                3.24 - 14.34     2.61      38.29         71.5
+Podicipediformes     Uniform+Cosine             151.1            4.92                2.60 - 9.30      1.58      32.09         55.4
+Unidentified         Hazard+Hermite             215.7            35.68              13.74 - 92.66     17.84     50.00         4.9
+
+
+Inter-specific density estimates
+
+Twelve species were considered for density estimation. Tree sparrow had the highest density among the estimated species with 657.06 individuals/km2 in the study area (Table III), followed by rustic bunting (Emberiza rustica) with 116.40 individuals/km2. The density of other ten species was less than 80 individuals/km2.
+
+Density estimates of birds in natural and artificial habitats
+
+All three types of habitats supported high levels of bird density (>200 birds per km2). Furthermore, the original approximate natural habitat (woodland) had the highest density with 372.39 individuals/km2 in comparison to the farmland (326.87 individuals/km2) and aquaculture area (205.75 individuals/km2) (Table IV).
+
+A significant difference was found among the three types of habitats at species level. In aquaculture area, tree sparrow had the highest density with 522.46 individuals/ km2, whereas the density of other seven evaluated species including black-headed gull (Larus ridibundus), coot (Fulica atra), Siberian gull (Larus vegae), pied avocet (Recurvirostra avosetta), common merganser (Mergus merganser), little egret (Egretta garzetta), and little grebe (Tachybaptus ruficollis) ranged from 74.34 to 5.64 individuals/km2 (Table V). In farmlands, the density of tree sparrow and common magpie (Pica pica) was 469.07 individuals/km2 and 13.54 individuals/km2 respectively. In woodland, rustic bunting was mainly observed, with 328.58 individuals/km2.
+
+Density estimates of protected birds
+
+Of the 50 identified species, 34 species (68% of identified species) were protected species: included in the IUCN red list (n=4), CITES appendices (n=4), national key species (n=4) and/or provincial protected lists (n=30) (Supplementary Table SI). The density of all protected species was 1244.60 individuals/km2 (Table IV).
+
+Table III.- Density estimates for twelve different species, based on alternative Distance models selected on the lowest value of the Akaike's Information Criterion (AIC). 95% CI, 95% confidence interval for density; SE, standard error; CV, coefficient of variation. 
+
+Species                     Model (Key function)        AIC          Density            95% CI           SE      CV (%)  Effective strip
+                                                                (individuals.km2)                                           width (m)
+Passer montanus             Hazard+Hermite              479.9         657.06       338.64 - 1274.90    224.88    34.22         11.8
+Emberiza rustica            Hazard+Cosine               77.8          116.40        19.61 - 691.11     120.65   103.65         8.2
+Larus ridibundus            Uniform+Polynomial          63.9          74.34         15.10 - 365.94      58.14    78.21         95.8
+Fulica atra                 Uniform+Cosine              45.9          26.67          4.65 - 152.98      21.18    79.42         98.4
+Larus vegae                 Uniform+Hermite             71.5          23.68          3.65 - 153.72      22.87    96.60         87.5
+Recurvirostra avosetta      Uniform+Polynomial          26.6          21.45          1.06 - 435.83      18.58    86.66         83.9
+Mergus merganser            Uniform+Hermite             91.9          12.56          3.65 - 43.23        7.14    56.83         98.8
+Lanius schach               Uniform+Cosine              426.2         11.32          7.24 - 17.71        2.52    22.21         22.5
+Egretta garzetta            Uniform+Polynomial          110.4         10.26          2.50 - 42.15        7.62    74.29         69.7
+Pica pica                   Uniform+Cosine              322.9         10.03          5.89 - 17.08        2.61    26.03         31.1
+Tachybaptus ruficollis      Uniform+Cosine              151.1         4.92           2.60 - 9.30         1.58    32.09         55.4
+Larus canus                 Uniform+Polynomial          82.0          4.66           1.42 - 15.30        2.66    56.93         95.1
+
+
+Table IV.- Bird density estimates for protected species, migratory, resident; and birds in three different habitat types. The alternative distance models were selected based on the lowest value of the Akaike's Information Criterion (AIC). 95% CI, 95% confidence interval for density; SE, standard error; CV, coefficient of variation. 
+
+                   Species       Model             AIC         Density         95% CI           SE       CV     Effective strip
+                   number    (Key function)                (individuals.km2)                             (%)      width (m)
+Protected birds*    34        Hazard+Cosine       2178.6      1244.60        776.94-1993.70    300.06    24.11      7.7
+Resident            24        Hazard+Cosine       2103.0       758.94        490.22-1175.00    169.04    22.27      7.0
+Winter migratory    20        Hazard+Hermite      831.8        396.88        201.91 - 780.10   139.88    35.24      6.8
+Habitat type
+Aquaculture         35        Uniform+Cosine      1951.5       205.75        117.86 - 359.16   55.52     26.98      30.0
+Farmland            32        Half-normal+Cosine  1964.4       326.87        223.62 - 477.77   60.30     18.45      20.1
+Woodland            20        Hazard+Hermite      506.7        372.39        254.14 - 545.66   72.57     19.49      24.6
+
+
+Table V.- Density estimates for species at three different habitats, based on alternative distance models selected on the lowest value of the Akaike's Information Criterion (AIC). 95% CI, 95% confidence interval for density; SE, standard error; CV, coefficient of variation. Habitat type/ Model AIC Density 95% CI SE CV Effective strip Species (Key function) (individuals.km-2) (%) width (m) Aquaculture 
+
+Passer montanus           Uniform+Cosine         212.8         522.46          184.03 - 1483.30     278.45    53.30        16.9
+Larus ridibundus          Uniform+Cosine         63.9          74.34            15.10 - 365.94      58.14     78.21        95.8
+Fulica atra               Uniform+Hermite        27.5          32.20             3.40 - 304.94      25.90     25.90        98.4
+Larus vegae               Uniform+Polynomial     62.6          29.66             4.29 - 205.20      28.99     97.77        87.5
+Recurvirostra avosetta    Uniform+Cosine         26.6          21.45             1.06 - 435.83      18.58     86.66        83.9
+Mergus merganser          Uniform+Hermite        91.9          12.56             3.65 - 43.23       7.14      56.83        98.8
+Egretta garzetta          Uniform+Cosine         72.8          5.92              0.76 - 46.09       6.56      110.87       58.3
+Tachybaptus ruficollis    Uniform+Cosine         103.3         5.64              2.56 - 12.43       2.21      39.23        46.9
+Farmland
+Passer montanus           Hazard+Hermite         264.8         469.07          198.38 - 1109.10     210.77    44.93        11.6
+Pica pica                 Uniform+Cosine         119.4         13.54             5.25 - 34.94       6.53      48.24        35.9
+Woodland
+Emberiza rustica          Uniform+Hermite        19.0          328.58           30.43 - 3547.90     284.34    86.54        10.8
+
+
+Density estimates of migratory and resident birds
+
+The resident birds had the higher density with 758.94 individuals/km2 than the density of winter migratory birds with 396.88 individuals/km2 (Table IV).
+
+DISCUSSION
+
+The study represents the first report on bird density in the buffer zone of Yancheng Reserve. Overall, the present study focused only on the bird density during winter i.e. the temporal (seasonal and annual) dynamics of bird density was not explored. It is not able to fully reflect the bird density of this nature reserve throughout the year.
+
+High bird density and difference in woodland and farmland
+
+The study confirmed that anthropogenic activities do have a negative impact on bird population dynamics. In farmland, the density was a bit lower than that of the woodland, whereas the lowest bird density was estimated in aquaculture, a probable consequence of the deterioration of natural habitat. This result confirmed that birds tended to use approximate natural habitat than artificial habitat in the specific study site.
+
+The importance of the northern buffer zone: Comparison with neighboring reserve
+
+As the bush and swamp densely covered the core zone, conducting line transect survey was impossible. We therefore were not able to estimate the density of birds in the core area. Instead, we referred to the bird density of the neighboring Dafeng Muli National Nature Reserve (Liu et al., 2012) to compare with the bird density in buffer zone. The comparison was meaningful although it was not accurate. Upon comparison, the density of eight species (50% of compared species) in the buffer zone of Yancheng Reserve was found to be higher than that in Dafeng Reserve (Table VI), and of these species, seven were protected. These observations proved the importance of buffer zone in the Yancheng Reserve.
+
+Table VI.- Density of eight species in the northern buffer area of Yancheng Reserve (YR) and Dafeng Milu National Natural Reserve (DMNNR). 
+
+Species                             Density(individuals.km-2)
+                                     YR                DMNNR
+                                 (this study)    (Liu et al., 2012)
+Passer montanus a                  657.06             243.70
+Emberiza rustica a                 116.40              79.50
+Larus ridibundus a                  74.34              33.00
+Fulica atra ab                      26.67              22.60
+Lanius schach                       11.32              22.40
+Egretta garzetta a                  10.26              49.60
+Pica pica a                         10.03              46.00
+Tachybaptus ruficollis a             4.92              10.50
+
+
+Protected and migratory species
+
+The northern buffer zone has become a vital habitat of 34 identified species, with high density of 1244.60 individuals/km2. Seventeen of the species observed were migratory (Supplementary Table SI). Red-crowned crane, a globally endangered species, was the flagship species in Yancheng Reserve during winter. The population size of cranes in the whole Yancheng Reserve declined largely from 1128 in 1999-2000 to 636 individuals in 2009-2010 (Wang, 1997, 2008, 2010; Wang et al., 2005; Su, 2008; Su and Zou, 2012). The major reasons for the decline in populations were the habitat loss due to reclamation and draining of wetlands, obstruction of water sources of the wetlands, and the reduction in plant biomass (Yang, 2008; Ke et al., 2011; Sun and Liu, 2011). Red-crowned crane population for the past several years has gradually started to recover (Cheng and Zhang, 2015). In 2015, 682 red- crowned cranes were observed in the whole reserve.
+
+Of these encountered individuals, 39.44% were recorded throughout from the northern buffer zone, an increase of 3.65% from the previous record in 2014 (Cheng and Zhang, 2015). Additionally, the northern buffer zone had always been the habitat of the common crane in the past 20 years, and the common cranes record attained in 2015 was 41.21% of the total number of birds in Yancheng Reserve (Li et al., 2013; Cheng and Zhang, 2015).
+
+Resident birds
+
+Sixteen resident bird species were recorded including little egret, northern shoveler (Anas clypeata), grey heron (Ardea cinerea), great pied woodpecker (Dendrocopos major), Eurasian bittern (Botaurus stellaris ), great tit (Parus major), Eurasian hoopoe (Upupa epops), common coot (Fulica atra), common moorhen (Gallinula chloropus), azure-winged magpie (Cyanopica cyana), tree sparrow, common magpie, little grebe, black-crowned night heron (Nycticorax nycticorax), reed parrotbill (Paradoxornis heudei), and intermediate egret (Mesophoyx intermedia). As these species live in the reserve all year round, habitat management can be an important measure in preventing or reversing the stability of population dynamics. All these results indicate that the northern buffer zone is an important habitat for protected bird species.
+
+To sum up, considering the high density of endangered and protected species, migratory and resident birds, and diverse habitats, the northern buffer zone of Yancheng Reserve plays an essential role in bird survival and sustainability. Thus, the northern buffer zone should be considered for conservation purposes on priority basis. Conservation status and suggestions
+
+Habitat modifications and losses due to anthropogenic activities occur in all core zones, buffer zones, and transition/experimental zones of Yancheng Reserve, e.g. the natural wetlands decreased in area by 30,601 ha (-6.9%) from 2000 to 2009 (Liu et al., 2013). Currently, the core zone is protected with the highest priority, and anthropogenic activities are banned except for harvesting reed once a year. On the other hand, the buffer zone and transition zone permit some human activities. Interestingly, extensive aquaculture and continuous reclamation exist in northern and southern buffer zones, and continue to increase every year. The aquaculture area contained the highest number of species among three types of habitat, which should make it an area of great concern.
+
+The bird conservation measures employed in Yancheng Reserve include an annual monitoring survey in the whole reserve since 1982 (Lv et al., 2006), and the establishishment of rescue farms (Li et al., 1999). The results provided reliable and valuable information on bird dynamics and health. In the buffer zone, alternative measures should be carried out to mitigate the possible anthropogenic impacts, especially in aquaculture. In this paper, we suggest preserving the current aquaculture, but strictly prohibiting new reclamation of lands. A certain compromise between local economic development and species conservation must be reached. In future, the buffer zone may be gradually converted into a core zone.
+
+CONCLUSION
+
+Bird density was negatively correlated with the artificial extent of habitat change. Considering high density of endangered and protected species, migratory and resident birds, and diverse habitats, northern buffer zone of Yancheng Reserve played an essential role in bird survival and sustainability. Northern buffer zone should be considered to be given more conservation importance.
+
+ACKNOWLEDGEMENTS
+
+We are grateful to the Priority Academic Program Development (PAPD) of Jiangsu Higher Education Institutions, NSFC for Talents Training in Basic Science (J1103507, J1210025), Specialized Research Fund for the Doctoral Program of Higher Education (20093207120006), and Jiangsu Province Wildlife Conservation Station (commissioned projects), which funded the present study. We thank the National Yancheng Rare Birds Nature Reserve for their coordination with the local affairs. We also thank Chen Yuan for his assistance in the field survey.
+
+Supplementary material
+
+There is supplementary material associated with this article. Access the material online at: http://dx.doi. org/10.17582/journal.pjz/2019.51.6.1999.2006
+
+Statement of conflict of interest
+
+Authors have declared no conflict of interest.
+
+REFERENCES
+
+Anderson, D.R., Laake, J.L., Crain, B.R. and Burnham, K.P., 1979. Guidelines for line transect sampling of biological populations. J. Wildl. Manage., 43: 70-78. https://doi.org/10.2307/3800636
+
+Beardsley, K., Throne, J.H., Roth, N.E., Gao, S.Y. and Mccoy, M.C., 2009. Assessing the influence of rapid urban growth and regional policies on biological resources. Landsc. Urban Plan., 93: 172-183. https://doi.org/10.1016/j.landurbplan.2009.07.003
+
+Buckland, S.T., 1992. Fitting density functions with polynomials. Appl. Stat., 41: 63-76.
+
+Buckland, S.T., Anderson, D.R., Burnham, K.P. and Laake, J.L., 1993. Distance sampling: Estimating abundance of biological populations. Chapman and Hall, London. https://doi.org/10.1007/978-94-011-1572-8
+
+Buckland, S.T., Anderson, D.R., Burnham, K.P., Laake, J.L., Borchers, D.L. and Thomas, L., 2001. Introduction to distance sampling: Estimating abundance of biological populations. Oxford University Press, Oxford.
+
+Burnham, K.P., Anderson, D.R. and Laake, J.L., 1980. Estimation of density from line transect sampling of biological population. Ecol. Monogr., 72: 1-202.
+
+Cheng, H. and Zhang, Y.N., 2015. The survey of water birds in Yancheng National Natural Reserve from 2014 to 2015. Dan Ding He, 3: 19-21.
+
+Hou, S.L., Yu, X.Y. and Lu, C.H., 2013. Spatiotemporal patterns of shorebirds during their migration period at Sheyang estuary of Yancheng Nature Reserve, East China. Chinese J. Ecol., 32: 149-155.
+
+Jiang, H.X., Hou, Y.Q., Chu, G.Z., Qian, F.W., Wang, H., Zhang, G.G. and Zheng, G.M., 2010. Breeding population dynamics and habitat transition of Saunders's Gull Larus saundersi in Yancheng National Nature Reserve, China. Bird Conserv. Int., 20: 13-24. https://doi.org/10.1017/ S0959270910000055
+
+Ke, C.Q., Zhang, D., Wang, F.Q., Chen, S.X., Schmullius, C., Boerner, W.M. and Wang, H., 2011. Analyzing coastal wetland change in the Yancheng National Nature Reserve, China. Reg. Environ. Change, 11: 161-173. https://doi.org/10.1007/s10113-010-0130-8
+
+Larsen, J.L., Heldbjerg, H. and Eskildaen, A., 2011. Improving national habitat specific biodiversity indicators using relative habitat use for common birds. Ecol. Indic., 11: 1459-1466. https://doi. org/10.1016/j.ecolind.2011.03.023
+
+Li, W.J., Wang, Z.J., Ma, Z.J. and Tang, H.X., 1999. Designing the core zone in a biosphere reserve based on suitable habitats: Yancheng Biosphere Reserve and the red crowned crane (Grus japonensis). Biol. Conserv., 90: 167-173. https://doi.org/10.1016/ S0006-3207(99)00028-2
+
+Li, W.J., Wang, Z.J. and Tang, H.X., 1999. Designing the buffer zone of a nature reserve: A case study in Yancheng Biosphere Reserve, China. Biol. Conserv., 90: 159-165. https://doi.org/10.1016/ S0006-3207(99)00011-7
+
+Li, X.L., Xu, X.R., Lv, S.C., Zhao, Y.Q., Chen, D.X., Hou, C.X., Chen, B.Y. and Yang, G., 2016. The bird diversity in the buffer zone of the largest coastal nature reserve of China and conservation implications. Pakistan J. Zool., 48: 1193-1199.
+
+Li, Z.Q., Wang, Z. and Ge, C., 2013. Population trends and behavioral observations of wintering common cranes (Grus grus) in Yancheng Nature Reserve. Zool. Res., 34: 453-458.
+
+Liu, B., Ding, Y.H., Ren, Y.J., Xu, A.H., Xie, S.B. and Hou, L.B., 2012. Avian Diversity in Dafeng Milu National Natural Reserve. Chinese J. Wildl., 33: 11-17.
+
+Liu, C.Y., Jiang, H.X., Hou, Y.Q., Zhang, S.Q., Su, L.Y., Li, X.F., Pan, X. and Wen, Z.F., 2010. Habitat changes for breeding waterbirds in Yancheng National Nature Reserve, China: A remote sensing study. Wetlands, 30: 879-888. https://doi. org/10.1007/s13157-010-0070-6
+
+Liu, C.Y., Jiang, H.X., Zhang, S.Q., Li, C.R., Hou, Y.Q. and Qian, F.W., 2013. Multi-scale analysis to uncover habitat use of red-crowned cranes: Implications for conservation. Curr. Zool., 59: 604-617. https://doi.org/10.1093/czoolo/59.5.604
+
+Lu, H.F., Campbell, D., Chen, J., Qin, P. and Ren, H., 2007. Conservation and economic viability of nature reserves: An energy evaluation of the Yancheng Biosphere Reserve. Biol. Conserv., 139: 415-438. https://doi.org/10.1016/j.biocon.2007.07.014
+
+Lv, S.C., 2015. Focusing on protection of migratory birds and their habitat. Dan Ding He, 6: 21.
+
+Lv, S.C., Shi, W.Q., Sun, M., Deng, J.D., Wang, H., Cheng, H., Gao, Z.D. and Li, C.R., 2007. Biological resources and environmental protection in Yancheng Sea shore, JiangSu Province. Mod. Agric. Sci. Technol., 24: 197-201.
+
+Lv, S.C., Sun, M., Gao, Z.D., Chen, H., Wang, H. and Li, C.R., 2006. Distribution of Grus japonensis in artificial wetlands of Yancheng National Natural Reserve. Wetl. Sci., 4: 58-63.
+
+Ma, Z.J., Li, B., Li, W.J., Han, N.Y., Chen, J.K. and Watkinson, A.R., 2009. Conflicts between biodiversity conservation and development in a biosphere reserve. J. appl. Ecol., 46: 527-535. https://doi.org/10.1111/j.1365-2664.2008.01528.x
+
+MacGregor-Fors, I., 2011. Misconceptions or misunderstandings? On the standardization of basic terms of urban ecology. Landsc. Urban Plan., 100: 347-349. https://doi.org/10.1016/j. landurbplan.2011.01.013
+
+MacKinnon, J.R., MacKinnon, J., Phillipps, K. and He, F.Q., 2000. A field guide to the birds of China. Oxford University Press.
+
+Newson, S.E., Evans, K.L., Noble, D.G., Greenwood, J.J.D. and Gaston, K.J., 2008. Use of distance sampling to improve estimates of national population sizes for common and widespread breeding birds in the UK. J. appl. Ecol., 45: 1330-1338. https://doi. org/10.1111/j.1365-2664.2008.01480.x
+
+Newson, S.E., Woodburn, R.J.W., Noble, D.G., Baillie, S.R. and Gregory, R.D., 2005. Evaluating the Breeding Bird Survey for producing national population size and density estimates: Capsule: The BBS has potential for producing better estimates of habitat-specific densities and population sizes for many UK bird populations than those available previously. Bird Stud., 52: 42-54. https://doi. org/10.1080/00063650509461373
+
+Reis, E., Lopez-iborra, G.M. and Pinheiro, R.T., 2012. Changes in bird species richness through different levels of urbanization: Implications for biodiversity conservation and garden design in Central Brazil. Landsc. Urban Plan., 107: 31-42. https://doi. org/10.1016/j.landurbplan.2012.04.009
+
+Ren, Y., Yang, L., Zhang, R., Lv, J., Huang, M. and Luan, X. 2016. Decline and range contraction of black-billed capercaillie (Tetrao urogalloides) in northeast China from 1950 to 2010 based on local historical documents. Pakistan J. Zool., 48: 1825-1830.
+
+Su, L., 2008. Challenges for red-crowned crane conservation in China. In: Current status and issues of the red-crowned crane (eds. K. Koga, D. Hu and K. Momose). Tancho Protection Group, Hokkaido, Japan, pp. 63-73.
+
+Su, L.Y., Jiang, H.X., Qian, F.W., Wang, H. and Shan, K., 2008. The red-crowned crane wintering population declines during last three winters in China. China Crane News, 12: 12-18.
+
+Su, L.Y. and Zou, H.F., 2012. Status, threats and conservation needs for the continental population of the red-crowned crane. Chinese Birds, 3: 147-164. https://doi.org/10.5122/cbirds.2012.0030
+
+Sun, X.B. and Liu, H.Y., 2011. Temporal changes of Grus japonensis suitable wintering habitat in coastal zone of Yancheng, Jiangsu. Chinese J. Ecol., 30: 694-699.
+
+Tatsuya, A., Tamás, S., Kazuo, K., Hitoha, A. and William, J.S., 2010. A framework for monitoring the status of populations: An example from wader populations in the East Asian-Australasian flyway. Biol. Conserv., 143: 2238-2247. https://doi. org/10.1016/j.biocon.2010.06.010
+
+Thomas, L., Buckland, S.T., Rexstad, E.A. Laake, J.L., Strindberg, S., Hedley, S.L., Bishop, J.R.B., Marques, T.A. and Burnham, K.P., 2010. Distance software: design and analysis of distance sampling surveys for estimating population size. J. appl. Ecol., 47: 5-14. https://doi.org/10.1111/j.1365-2664.2009.01737.x
+
+Wang, H., 1997. Population number of the red-crowned cranes (Grus japonensis) in China was estimated 1400. China Crane News, 1: 17-19.
+
+Wang, H., 2008. Synchronic survey on wintering red-crowned crane in Yancheng. China Crane News, 12: 4-5.
+
+Wang, H., 2010. The wild population of the red-crowned crane. China Crane News, 14: 43-45.
+
+Wang, H., Wang, Q.S., Chu, G.Z., Jiang, H.X. and Qian, F.W., 2005. In: Crane research in China (eds. Q. Wang and F. Li). Yunnan Education Publishing House, Kunming, pp. 49-57.
+
+Wang, K., Gao, Y.Y., Wen, X.R. and Lin, G.Z., 2015. Study on the dynamic changes of wetland in the core area of Yancheng National Nature Reserve. Forest Engin., 31: 17-21.
+
+Yang, B., 2008. Study on habitat characteristics and habitat change of red-crowned crane in Rare Bird Nature Reserve of Yancheng, Jiangsu. Master's thesis, Nanjing Forestry University, Nanjing, China.
+
+Zheng, G.M., 2011. A checklist on the classification and distribution of the birds of China, 2nd edn. Science Press, Beijing.

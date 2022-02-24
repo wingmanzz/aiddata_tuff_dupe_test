@@ -1,0 +1,40 @@
+Source: Capacity Magazine
+Publisher: Euromoney Trading Limited
+Byline: Alan Burkitt-Gray 
+Copyright: © 2019 Euromoney Trading Limited 
+Publication Date: Apr 15, 2019
+
+Region Codes: ,pakis,fra,proven,asiaz,devgcoz,dvpcoz,eecz,eurz,indsubz,medz,sasiaz,weurz,
+
+Title: Cybernet to land Hengtong’s open-access PEACE cable in Pakistan
+
+Snippet: Cybernet - officially Cyber Internet Services - signed (see picture) the landmark agreement on the first day of Capacity North Africa in Cairo.
+
+Danish Lakhani, CEO of Cybernet Pakistan, said the arrival of the system “will have an outsized impact on the digital landscape in Pakistan”. He added: “PEACE is the only cable system that originates in Pakistan and connects three continents - Asia, Africa and Europe.” The cable “elevates our country's strategic standing in the global connectivity race”.
+
+Body: 
+The Pakistan and East Africa Connecting Europe (PEACE) cable will be 12,000km long when it goes into service in the first quarter of 2020. It will be a privately owned cable system that provides an open, flexible and carrier-neutral services for its customers.
+
+The first phase of the cable system will have landings in Pakistan, Djibouti, Egypt, Kenya and France and will connect the three most populated continents in the world, providing critical interconnection to the economic corridors of Asia, Europe and Africa.
+
+It will add total capacity of 96Tbps to Pakistan's internet infrastructure.
+
+The cable will adopt the latest 200G technology and WSS technology, which provides the capability to transmit over 16Tbps per fibre pair.
+
+Cybernet says its objectives are “to bring carrier neutrality and much needed redundancy to Pakistan's internet backbone”. It will build what will be Pakistan's first carrier-neutral cable landing station for the cable's service date in early 2020.
+
+Cybernet will provide capacity to local and global carriers, content delivery networks, content providers and others “at easily accessible interconnect points across Pakistan - enabling true carrier neutrality and open
+
+Cybernet says it wants to bring affordable ultra-fast broadband on its own fibre network and in partnership with mobile and other fixed line carriers to the far reaches of Pakistan.
+
+Lakhani added: “This ultra-high capacity cable will boost available bandwidth to meet current and future requirements of Pakistan and that of neighbouring countries. With its ultra-low latency design, the cable will cut down transit time between Pakistan and France to under 90ms - dramatically improving the response time of internet-based applications and the experience of our users. The cable will also bolster the redundancy of our country's connectivity to the rest of world.”
+
+He said Cybernet's vision is “to create an enabling environment for Pakistan's digital landscape”, so that companies “can extend affordable services to our citizens”.
+
+Wu Qianjun, VP of Chinese parent company Hengtong and CEO of PEACE Cable, said: “PEACE is the first privately owned submarine cable system from China. We see the PEACE project as a strategic pivot for the Hengtong group.”
+
+The cable will give Hengtong “our experience as a subsea cable investor”, he said, and help the group to identify “new investing opportunities in this market in the future”.
+
+The cable will have a round-trip latency of 89ms between Karachi and Marseille, 59ms between Djibouti and Marseille, and 102ms between Mombasa and Marseille.
+
+Phase one will also connect Seychelles, and phase two is expected to connect South Africa.

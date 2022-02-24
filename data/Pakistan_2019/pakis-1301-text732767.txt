@@ -1,0 +1,18 @@
+Source: Telecompaper Asia
+Publisher: Telecompaper BV
+Byline: 
+Copyright: Copyright 2019 Telecompaper. All Rights Reserved. 
+Publication Date: Jul 23, 2019
+
+Region Codes: ,pakis,uae,china,apacz,asiaz,bric,chinaz,devgcoz,dvpcoz,easiaz,gulfstz,indsubz,meastz,sasiaz,wasiaz,
+
+Title: Du partners with Wi-Tribe Pakistan to develop submarine cable system
+
+Snippet: UAE operator Du has partnered with Wi-tribe Pakistani to develop an ‘Orient Express' submarine fibre optic cable between Pakistan and the UAE. Wi-tribe Pakistan is part of HB International Investments. Du will be the UAE landing party for the cable and will provide landing station infrastructure for connectivity.
+
+The two companies said the agreement builds on the "One belt, One Road" initiative, which is China's expansive investment in developing global trade routes, opening a gateway for onward terrestrial connectivity eastwards through Pakistan to China and westwards to Europe. The cable will complement Du's expanding Datamena and UAE-IX ecosystems and provide connectivity to other cable systems in the region.
+
+Body: 
+The 1,300 km cable system will link landing points in Karachi and Gwadar in Pakistan with Kalba in the UAE. The cable system will carry four fibre pairs and 40 Tbps of total design capacity, providing consumers with faster access to the internet and content worldwide.
+
+The launch of the submarine cable system will help Pakistan's digital penetration, reducing the country's digital divide, and improving education and general awareness. It provide telecom operators in Pakistan with access to the competitive IP transit market.

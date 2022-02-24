@@ -1,0 +1,35 @@
+Source: Economist Intelligence Unit - Risk Briefing
+Publisher: The Economist Intelligence Unit, N.A., Inc.
+Byline: 
+Copyright: (C) 2019 The Economist Intelligence Unit Ltd. 
+Publication Date: Apr 01, 2019
+
+Region Codes: ,pakis,asiaz,devgcoz,dvpcoz,indsubz,sasiaz,
+
+Title: Pakistan risk: Macroeconomic risk
+
+Snippet:  RISK RATINGS         Current   Current   Previous   Previous
+                      Rating    Score     Rating     Score
+ Overall assessment   D         65        D          64
+ Macroeconomic risk   D         65        C          55
+ Note: E=most risky; 100=most risky.The risk ratings model is run once a quarter.
+
+
+SUMMARY
+
+Body: 
+Private consumption will continue to underpin economic growth in 2019-20. Projects under the China-Pakistan Economic Corridor development will also boost domestic investment sentiment. However, the government's efforts to address the country's looming balance-of-payments crisis will have a dampening effect on economic growth. The volatile security environment, structural imbalances in the economy and ongoing electricity shortages will also constrain the pace of growth. High levels of consumer price inflation have historically been a major source of macroeconomic instability, eroding real incomes and contributing to a weak growth performance. Furthermore, high deficits on the current and fiscal accounts will pose major risks to macroeconomic stability.
+
+SCENARIOS
+
+Exchange rate appreciates
+
+Low likelihood; High impact; Intensity =8
+
+Our core forecast assumes that the Pakistan rupee will continue to depreciate against the US dollar in 2019 and will only broadly stabilise in 2020. Still possible benefits arising out of increased trans-shipment trade as a result of completion of some transportation projects under the China-Pakistan Economic Corridor (CPEC) can potentially help the country to shore up its foreign exchange earnings, which will ultimately provide a fillip to the currency. There are also numerous Special Economic Zones (SEZs) being developed under CPEC. Once these become operational, some Chinese firms (which are facing increasing labour costs at home) may consider shifting manufacturing facilities to Pakistan, which will support export earnings for the country and bring in much needed foreign exchange. Firms whose operations are exposed to movements in the exchange rate should watch the country's foreign trade and current-account data closely to be aware of the fundamentals guiding the value of the local currency. Sharp movements in the country's foreign exchange reserves will also provide an indication of the intrinsic value of the exchange rate which can help firms anticipate currency movements. Firms should seek ways of hedging currency exposures if this is felt worthwhile and suitable ways can be found to do this.
+
+A natural disaster hurts economic growth
+
+Moderate likelihood; High impact; Intensity =12
+
+Pakistan's economy will remain highly vulnerable to natural disasters in the forecast period. In recent years the country has been afflicted by major floods and earthquakes, which caused considerable physical damage. Given the continued importance of the agricultural sector, which employs close to half the country's labour force, Pakistan is also vulnerable to an economic downturn caused by droughts or below-average monsoon rainfalls. According to the World Bank , about 3m Pakistanis are affected by natural disasters each year. The ability of authorities to reduce the adverse impact of natural disasters is limited by insufficient technical and financial resources as well as underdeveloped disaster response mechanisms. Nevertheless, in the event of a natural disaster, remittances from the large diaspora would likely spike, helping to partly mitigate the negative economic impact. Beyond the forecast period, climate change will also pose increased dangers to social stability and economic growth, particularly along the coastline. Investors should be aware that the ability of the government to respond adequately to natural disasters will be limited in the forecast period. In the event of a natural catastrophe, economic growth would likely falter, while social and political stability would also probably weaken.

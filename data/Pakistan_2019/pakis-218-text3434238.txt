@@ -1,0 +1,48 @@
+Source: Dawn
+Publisher: Pakistan Herald Publications (Pvt.) Limited
+Byline: Musa Khan Durrani 
+Copyright: Copyright © 2019. Dawn 
+Publication Date: Dec 22, 2019
+
+Region Codes: ,pakis,asiaz,devgcoz,dvpcoz,indsubz,sasiaz,
+
+Title: Gearing up for a fossil fuel-free society - II
+
+Snippet: The first part of this article, published on Dec 9, highlighted how China is dominating the global production of lithium ion batteries (LIBs) and how Pakistan stands to learn from its experience.
+
+Globally, electric vehicles (EVs) have been the main drivers of investment in LIB production. LIBs constitute 40-50 per cent of the cost of an EV. Over 80pc of the future LIB demand is expected to come from EVs. The remaining demand will come from applications like stationary storage and consumer electronics.
+
+Body: 
+The government recently announced its National Electric Vehicles Policy (NEVP) 2019. The policy covers not only EVs but also its related industries like LIBs and charging stations. It ambitiously targets 100,000 cars, 500,000 two-wheelers/three-wheelers and 1,000 buses and trucks as EVs by the end of 2024. It further targets a 30pc share of EVs in new car sales by 2030 and 90pc by 2040. The policy also aims to convert 3,000 idle CNG stations into EV-charging stations.
+
+These targets come with a generous fiscal incentive package for investment. The policy allows the EV imports of completely built units (CBU) at zero duty for five years while only 1pc sales tax will be collected from EV assemblers for the first seven years.
+
+The registration of vehicles and token tax will also be free on prospective buyers. Benefits under the Auto Development Policy 2016-21 also apply to new entrants in electric vehicles except that the NEVP offers further benefits. In addition, used EV imports will also be allowed for the first two years. All these incentives are expected to bring EV prices in parity with conventional vehicles.
+
+The policy argues that EVs will not only help cut our fuel import bill (expected annual savings of about $2 billion) but also significantly reduce traffic pollution, which currently accounts for about 40pc of total greenhouse gas emissions in the country - almost twice those in developed countries.
+
+Clearly, the NEVP has to be acknowledged as a step in the right direction. If done right, this can be truly transformational for our industrial landscape. It is imperative for the government to treat this policy - and ensuing EV investments - as a means to an end rather than an end in itself.
+
+The policy must aim to drive investment in other allied industries like renewable energy and power storage. It will be useful to see how China essentially preloaded the LIB demand (and production) by pushing investments in EVs.
+
+An interesting example of how EVs can influence other, seemingly unrelated, industries in Pakistan is its impact on the local energy sector. Pakistan is currently sitting on a huge pile of idle power generation capacities - almost all of which are in the independent power producer (IPP) mode. These IPPs, which are commissioned under take-or-pay contracts with the government, charge dollar-denominated capacity payments irrespective of the plant usage. Since the government passes these capacity charges on to existing consumers, the end-user rate of electricity has been increasing exponentially.
+
+Now with EVs in play, this surplus generation capacity can be put to use in EV charging stations, which will dilute the fixed capacity charges and drive down electricity tariffs for all other user segments like industrial, commercial and residential. Pakistan will, thus, be in a unique situation, vis-à-vis other developed countries, where an increase in power demand from EVs will end up reducing, rather than increasing, the consumers' cost of electricity.
+
+Similarly, another major application of LIBs - the stationary storage - can help meet the intermittence issue of renewable energy, especially solar energy. Stationary storage, whether used for on-site applications like homes and office buildings or grid-scale applications, can help shave off the solar generation peaks during sun hours. The solar generation-consumption mismatch, known as the duck curve, has been a challenge for many developed countries with ramped-up solar generation capacities. The LIB storage here can solve this problem by storing excess power in daytime and discharging it in the after-sun hours.
+
+In the context of Pakistan, the above-mentioned applications of LIBs can trigger a continuous circuit of green investments where EV demand will create demand for LIBs, and supply of LIBs for stationary storage solutions will incentivise further investment in renewable energy.
+
+Finally, with cheap renewables in the energy mix, energy tariffs can be brought down that will, in turn, drive further demand for EVs. This self-perpetuating EV-LIB-solar-EV 'green loop' can truly set off a paradigm shift in our economy.
+
+But in order to truly harness the potential of LIBs, the government will have to do this the right way. Leveraging the China-Pakistan Economic Corridor (CPEC), the government should encourage Chinese-led JVs in LIB manufacturing with local partners responsible for local fund raising, regulatory approvals and organisational setup. Until the local EV market takes shape, these will primarily be export-oriented projects (targeting the United States and Europe) with some local demand anchorage coming from stationary storage applications.
+
+The Chinese partner will ideally be an existing LIB manufacturer looking to relocate/expand its capacities in Pakistan. Besides other fiscal incentives under the NEVP, the relocation will provide a 'location arbitrage' to the Chinese partner where the United States has recently imposed a 10-15pc import duty on made-in-China LIBs.
+
+Lastly, these large-scale giga factories can be set up in various Special Economic Zones (SEZs) envisaged under CPEC. The SEZ framework offers its own set of incentives like duty-free imports of plant/machinery and a 10-year tax holiday. Moreover, their locations provide for easy connectivity to main highways, airports and seaports (Karachi).
+
+The economic fundamentals for EVs and LIBs are exceptionally strong in Pakistan. Investments in EVs and LIBs can spur technology transfer, improve urban air quality, reduce noise pollution, save expensive foreign exchange, employ idle power capacity, lower consumer tariffs and trigger capital flows towards multiple industries.
+
+And yet, like almost always, the macro risks emanating from policy inconsistencies and bureaucratic red tape weigh heavier. Whether the fate of the Auto Policy 2016-21 - in the wake of the NEVP - comes under question or the dismal condition of operational SEZs is up for review, the gap between what is promised as policy and what is delivered as action is too wide to ignore. These factors form the basis of any investment decision and will thus have to be addressed.
+
+To conclude, the government has taken a major first step in unveiling the EV policy. A federal minister also announced the entry of a Chinese LIB manufacturer in Pakistan. These are all positive developments. But these words will now have to be backed by right actions, for the stakes are too high and the (storage) opportunity too huge.

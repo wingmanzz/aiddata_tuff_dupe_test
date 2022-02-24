@@ -1,0 +1,44 @@
+Source: Pakistan Observer
+Publisher: Pakistan Observer
+Byline: 
+Copyright: Copyright © 2019. Pakistan Observer 
+Publication Date: Apr 17, 2019
+
+Region Codes: ,pakis,egypt,africaz,asiaz,devgcoz,dvpcoz,indsubz,meastz,medz,nafrz,sasiaz,
+
+Title: Pakistan's internet capa city to be incr eased b y 96 Tb / s
+
+Snippet: A Cable Landing Party Agreement has been signed between PEACE Cable International Network Co., Ltd (PEACE Cable) and Cyber Internet Services Pvt Ltd (Cybernet Pakistan). This landmark agreement, signed on 16 April 2019 at Capacity North Africa in Cairo, follows a Memorandum of Understanding signed by both parties in 2018.
+
+Pakistan and East Africa Connecting Europe (PEACE) is 12,000 km long, privately owned cable system that provides an open, flexible and carrier-neutral services for its customers. PEACE is targeted for completion in Q1, 2020.The system design will adopt the latest 200G technology and WSS technology, which provides the capability to transmit over 16 Tb/s per fibre pair, servicing growing regional capacity needs. The PEACE cable system with landings in Pakistan, Djibouti, Egypt, Kenya and France - in the first phase
+
+Body: 
+- will connect the three most populated continents in the world, providing critical interconnection to the economic corridors of Asia, Europe, and Africa. A total capacity of 96 Tb/s will
+
+be added to Pakistan's internet infrastructure.
+
+Cybernet, amongst Pakistan's oldest ISPs, is the PEACE Cable Landing
+
+Station Partner in Pakistan and will be deploying PEACE Pakistan Cable Landing Station (CLS) and managing its operations. With over 22 years of experience in building and running countrywide fiber broadband operations, IP/ MPLS networks and cloud-optimized data centres, Cybernet will be building Pakistan's first carrier-neutral cable landing station for PEACE cable by Q1, 2020 in Karachi. The design and selection of the CLS site in Karachi is in line
+
+with Cybernet's objectives to bring carrier neutrality and much needed redundancy to Pakistan's internet backbone. Cybernet will provide the capacity to local and global carriers, CDNs, content providers and others at easily accessible interconnect points across Pakistan enabling true carrier neutrality and open access.
+
+Cybernet is on a mission to bring affordable ultra-fast broadband on its own fiber network and in partnership with mobile and other fixed-line carriers to the far reaches of Pakistan. The PEACE cable project will enable carriers to extend gigabit speeds to the Pakistani population and will be instrumental in meeting the exponential growth in bandwidth demand from mobile and fixed broadband users in Pakistan and neighbouring countries.
+
+Speaking on the occasion, Danish Lakhani, CEO of Cybernet Pakistan, said: 'We are humbled to be able to contribute in bringing a submarine cable system that will have an outsized impact on the digital landscape in Paki- stan. PEACE is the only cable system that originates in Pakistan and connects 3 continents (Asia, Africa and Europe) and elevates our country's strategic standing in the global connectivity race.
+
+This ultra-high capacity cable will boost available bandwidth to meet cur-
+
+rent and future requirements of Paki- stan and that of neighbouring countries. With its ultra-low latency design, the cable will cut down transit time between Pakistan and France to under 90 milliseconds - dramatically improving the response time of internet-based applications and the experience of our users. The cable will also bolster the redundancy of our country's connectivity to the rest of world. At Cybernet, our vision is to create an enabling environment for Pakistan's digital landscape where ISPs, carriers, CDNs, content providers and virtually all IT enabled firms can extend affordable ser-
+
+vices to our citizens - while contribut- ing to increasing GDP, IT exports and total factor productivity. The PEACE cable system will contribute significantly in bringing us closer to achieving this vision.'
+
+PEACE Cable International Network Co., Ltd. is a subsidiary of Hengtong Group. Hengtong Group is a Global innovative enterprise group with Headquarters in China, which services in the field of information and
+
+communication, electricity transmission, energy mineral, financial, real estate, trade and investment. With wholly owned and holding more than
+
+70 companies, including 3 listed companies in Indonesia Stock Exchange, HKEx and Shanghai stock exchange, Hengtong has not only industry bases in 10 provinces and cities in China, and 10 research and development industry bases(located in Brazil, Indonesia, Spain, Portugal, South Af- rica, India, Germany, Egypt) around the world, but also marketing and technical service companies in more than 30 oversea countries and regions.at
+
+the same time, the products are widely used in more than 140 countries and areas. It is also the largest leading enterprises in the field of Chinese optical fiber network construction and operation and maintenance services, top 500 enterprises of China, top 100 Chinese private enterprises, top 3 global fibre optic communications manufacturer. It occupies 15% of the global market of fibre optic network.
+
+The revenue of Hengtong group reached to 15 billion dollars in 2018, and ranks No.1 in optic communication industry in China.

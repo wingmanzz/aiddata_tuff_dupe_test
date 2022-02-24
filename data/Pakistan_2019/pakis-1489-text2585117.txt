@@ -1,0 +1,36 @@
+Source: Technology Times
+Publisher: Technology Times
+Byline: Muhammad Khalid 
+Copyright: Copyright © 2019. Technology Times 
+Publication Date: Apr 06, 2019
+
+Region Codes: ,pakis,asiaz,devgcoz,dvpcoz,indsubz,sasiaz,
+
+Title: HVDC Transmission System in Pakistan
+
+Snippet: The term HVDC stands for high voltage direct current, which is a proven technology for electric power transmission over long distances, which is now going to be implemented all over the world.
+
+In an HVDC system electric power is taken from one point in three phase AC network and is then converted to DC electric power through converting station.
+
+Body: 
+It is then transmitted to receiving point by overhead lines or cables and then converted back into AC electric power in another converting station at the receiving end.
+
+An HVDC transmission line has a rated power of more than 100MW, typically ranging from 1000MW-3000MW. With an HVDC system the power flow can be controlled easily in terms of its level and direction.
+
+In Pakistan the first High Voltage Direct Current Transmission line is under construction which is called Matiari-Lahore transmission line which is one of the biggest projects of CPEC.
+
+The Matiari-Lahore transmission line project entails an investment of $1.65 billion. It will stretch 878 kilometers from Matiari, Sindh, to Nankana Sahib a district near Lahore, Pakistan.
+
+In 878 kilometers of distance the 550.65 kilometers will be in Punjab province and 314.9 kilometers will be in sindh. It is a 660kv high voltage direct current line which will help to transmit around 4000MW of electricity generated from the new coal power plants at Thar, Port Qasim and Hub, to Northern Pakistan.
+
+The main sponsors of this project is China Electric Power Equipment and Technology a subsidiary of state grid of corporation of china (SGCC). The company is responsible for the execution of the project through formation of a special purpose company, Pak Matiari-Lahore Transmission Company Ltd (PMLTC).
+
+Commercial operations of the line are scheduled by March 2021 under the build-own-operate-transfer model, and it will be transferred to NTDC after a term of 25 years.
+
+The government has decided to conduct another project of 660kv High Voltage Direct Current (HVDC), a transmission line from Port Qasim to Faisalabad.
+
+The Port Qasim-Faisalabad line would help the NTDC to evacuate 2640MW of electricity.
+
+These HVDC transmission projects will help Pakistan energy sector to improve its Electric Power transmission system which is very poor due to which Pakistan is facing a breakdown of loadshedding for more than 15 years.
+
+The loadshedding and breakdown problem of electricity in Pakistan has remained one of the biggest problem in energy sector, because of a Poor transmission system of electric power in the country.
